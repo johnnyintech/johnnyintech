@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sohyuk 👋
 
-<!--
-**johnnyintech/johnnyintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Tokyo, Japan 🇯🇵
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered applications
+and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Java, Dart
+- **Frontend:** React, Next.js, Flutter
+- **Backend:** NestJS, Spring Boot
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub
+
+### 🚀 Experience
+
+- Full-stack development of AI-powered web applications
+- Mobile application development using Flutter and Dart
+- AI/NLU data quality evaluation
+- Business process automation (RPA)
+
+### 🎯 Interests
+
+- Generative AI & LLM Applications
+- Backend Engineering
+- Cloud Technologies
+- Software Architecture
